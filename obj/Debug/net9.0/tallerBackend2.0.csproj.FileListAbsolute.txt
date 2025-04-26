@@ -34,3 +34,4 @@
 /home/eddy/Desktop/tallerBackend2.0/obj/Debug/net9.0/tallerBackend2.0.pdb
 /home/eddy/Desktop/tallerBackend2.0/obj/Debug/net9.0/tallerBackend2.0.genruntimeconfig.cache
 /home/eddy/Desktop/tallerBackend2.0/obj/Debug/net9.0/ref/tallerBackend2.0.dll
+/home/eddy/Desktop/tallerBackend2.0/obj/Debug/net9.0/tallerBackend2.0.sourcelink.json
